@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.noor{
+    color: brown;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 80%;
+}
